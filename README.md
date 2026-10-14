@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Luan 👋</h1>
+<h1 align="center">Olá, eu sou o Luan</h1>
 
 <p align="center">
   <strong>Desenvolvedor de Software · Backend · Marabá, PA 🇧🇷</strong><br/>
